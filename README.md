@@ -1,1 +1,1 @@
-Projeto salão de beleza, esse projeto foi mais para estudo acabei de vender esse projeto e queria tentar recriar ele pra entender mais como funciona, foi bem trabalhoso mais gostei do desafio.
+![image](https://github.com/CezinhaDev/Projeto_Studio_Hair/assets/161717056/aa6597a3-8fb4-4bc7-ad60-656d5dc273ae)
